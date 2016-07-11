@@ -16,26 +16,22 @@
   a (http://static.adpushup.com/js/adpushupadsv2.js:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-07-11T10:54:52.555Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
-
-  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:54:5[INFO  - 2016-07-11T10:59:47.583Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+rm/console++.js:263 in error
 [ERROR - 2016-07-11T10:54:52.555Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
   sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
   trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
   triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  (anonymous [INFO  - 2016-07-11T10:56:05.801Z] SessionManagerReqHand - _cleanupWindow[INFO  - 2016-07-11T10:58:49.383Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+pushup.com/js/adpushupadsv2.js:1)
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2016-07-11T10:54:54.687Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2016-07-11T10:54:54.690Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
-  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  sendBeacon (http://static.ad[INFO  - 2016-07-11T10:58:58.221Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+m/js/adpushupadsv2.js:4)
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
   e (http://static.adpushup.com/js/adpushupadsv2.js:1)
@@ -154,5 +150,975 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2016-07-11T10:55:45.138Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
   global code (http://www.mytokri.com/discuss/:3076)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:48.757Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:48.758Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/contests/:4310)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:52.276Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:52.277Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/chit-chat/:4590)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:55.104Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:55.104Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/login/:2463)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:59.063Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:55:59.063Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/site-questions-issues-or-suggestions/:5258)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:01.679Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:01.680Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:13.383Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:13.384Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:22.788Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:22.789Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:27.214Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:27.215Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:28.637Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:28.637Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:30.236Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:30.237Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:32.578Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:32.578Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:35.046Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:35.046Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:39.139Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:39.140Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:39.159Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:39.160Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:44.196Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:44.196Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:46.444Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:46.445Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:49.662Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:49.663Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:51.665Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:51.665Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:53.726Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:53.727Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:54.126Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:54.127Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:57.299Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:57.299Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:58.501Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:56:58.503Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:00.036Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:00.036Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:03.262Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:03.262Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:05.281Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:05.281Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:07.482Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:07.482Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:09.950Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:09.951Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:11.902Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:11.902Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:15.717Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:15.718Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:17.289Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:17.289Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:19.199Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:19.199Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:22.001Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:22.002Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:23.922Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:23.922Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:25.467Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:25.467Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:28.266Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:28.266Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:31.691Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:31.691Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:33.919Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:33.919Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:35.942Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:35.942Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:37.670Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:37.670Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:40.616Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:40.617Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:44.392Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:44.393Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:47.351Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:57:47.351Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:03.192Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:03.193Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:05.775Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:05.775Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:07.245Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:07.245Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:11.153Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:11.154Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:13.379Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:13.381Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:14.711Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:14.711Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:15.907Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:15.907Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:17.350Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:17.350Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:20.847Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:20.848Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:25.032Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:25.032Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:26.997Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:26.997Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:33.521Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:33.521Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:37.649Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:37.650Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:38.805Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:38.805Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:51.045Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:51.045Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:59.403Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:58:59.404Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:05.975Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:05.975Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:08.573Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:08.573Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:10.135Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:10.136Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-11T10:59:13.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-11T10:59:18.010Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:18.010Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:35.174Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:35.175Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:36.470Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:36.470Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:37.368Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:37.369Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:39.591Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:39.591Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:41.277Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:41.277Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:43.214Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:43.214Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:44.977Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:44.977Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:47.126Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:47.126Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:50.278Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:50.279Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:56.204Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T10:59:56.204Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
 
   phantomjs://platform/console++.js:263 in error

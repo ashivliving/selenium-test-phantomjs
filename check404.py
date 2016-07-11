@@ -22,7 +22,7 @@ for url in urls:
     title = driver.title
     title = str(title).lower()
     if (title.find(error404) == -1):
-        #print "Correct URL - " + url
+        print "Correct URL - " + url
         continue
     else:
         print "Error at URL - " + url
