@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
-driver = webdriver.PhantomJS();
-driver.get('http://www.mytokri.com');
+driver = webdriver.PhantomJS()
+driver.get('http://www.mytokri.com')
 driver.maximize_window()
 #driver.save_screenshot('out.png');
 #===============> For Getting Title <=====================
@@ -19,4 +19,4 @@ if driver.find_element_by_id("ctrl_pageLogin_remember").is_selected():
 driver.find_element_by_css_selector("input.btn.btn-primary").click()
 #driver.save_screenshot('out.png')
 print "Login Successful!"
-driver.quit();
+driver.quit()
