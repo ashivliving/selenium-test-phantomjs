@@ -38,7 +38,7 @@ class Selenium2OnLocal(unittest.TestCase):
                     print "Error at URL - " + url
             except UnicodeEncodeError:
                 pass
-        print "Total 404 Error in HomePage- " + error
+        print "Total 404 Error in HomePage- " + str(error)
 
 
     def tearDown(self):

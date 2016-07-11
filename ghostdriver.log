@@ -13,3 +13,130 @@
   (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:20.432Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:20.433Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:22.747Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:22.747Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:25.434Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:25.435Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:39.483Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:39.483Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:42.163Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:42.163Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:46.339Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:46.340Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:48.341Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
+vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
+W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
+create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:276
+[native code]
+pe@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:479:318
+Qh@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:477:147
+Tb@https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:470:189
+https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511:422
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:48.341Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  (anonymous function) (https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:3899)
+  (anonymous function) (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:54.750Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:25:54.750Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/:3076)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:26:04.256Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - msg: TypeError: null is not an object (evaluating 'document.getElementById('sticky').clientWidth')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-11T12:26:04.256Z] Session [1c0fe670-4762-11e6-a5d0-2f3318ae23f2] - page.onError - stack:
+  global code (http://www.mytokri.com/discuss/hot-deals-online/:4845)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-11T12:27:17.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T12:32:17.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
