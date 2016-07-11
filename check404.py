@@ -16,18 +16,19 @@ for element in links:
         urls.append(url)
 
 print len(urls)
-
+error = 0
 for url in urls:
     driver.get(url)
     title = driver.title
     try:
         title = str(title).lower()
         if (title.find(error404) == -1):
-            print "Correct URL - " + url
+            #print "Correct URL - " + url
             continue
         else:
+            error = error + 1
             print "Error at URL - " + url
     except UnicodeEncodeError:
         pass
-
+print "Total 404 Error in HomePage- "+ error
 driver.quit()

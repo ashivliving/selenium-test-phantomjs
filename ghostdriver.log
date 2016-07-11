@@ -17,27 +17,16 @@
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2016-07-11T10:54:5[INFO  - 2016-07-11T10:59:47.583Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-rm/console++.js:263 in error
-[ERROR - 2016-07-11T10:54:52.555Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
-  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  (anonymous [INFO  - 2016-07-11T10:56:05.801Z] SessionManagerReqHand - _cleanupWindow[INFO  - 2016-07-11T10:58:49.383Z] SessionManagerReqHand - _clean[INFO  - 2016-07-11T11:01:05.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-++.js:263 in error
-[ERROR - 2016-07-11T10:54:54.687Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: ReferenceError: Can't find variable: ap
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-07-11T10:54:54.690Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - stack:
-  sendBeacon (http://static.ad[INFO  - 2016-07-11T10:58:58.221Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-m/js/adpushupadsv2.js:4)
-  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
-  e (http://static.adpushup.com/js/adpushupadsv2.js:1)
-  a (http://static.adpushup.com/js/adpushupadsv2.js:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-07-11T10:55:06.124Z] Session [ce271980-4755-11e6-afd1-213d1450b26b] - page.onError - msg: getPresentingPlayerType@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7172:109
-vA@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
+[INFO  - 2016-07-11T11:04:47.583Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:09:47.591Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:14:47.592Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:19:47.593Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:03:49.380Z] SessionManagerReqHand - _clean[INFO  - 2016-07-11T11:06:05.802Z] SessionManagerReqHand - _cleanupWindow[INFO  - 2016-07-11T11:08:49.379Z] SessionManagerReqHand - _clean[INFO  - 2016-07-11T11:11:05.802Z] SessionManagerReqHand - _cleanupWindow[INFO  - 2016-07-11T11:13:49.380Z] SessionManagerReqHand - _clean[INFO  - 2016-07-11T11:16:05.802Z] SessionManagerReqHand - _cleanupWindow[INFO  - 2016-07-11T11:18:49.381Z] SessionManagerReqHand - _clean[INFO  - 2016-07-11T11:21:05.825Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+upWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:08:58.223Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:13:58.224Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:18:58.223Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+m/yts/jsbin/player-en_US-vflL1__zc/base.js:2170:78
 s8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4148:81
 W8@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:4234:299
 create@https://s.ytimg.com/yts/jsbin/player-en_US-vflL1__zc/base.js:7162:553
@@ -1511,3 +1500,7 @@ https://s.ytimg.com/yts/jsbin/www-embed-player-vflpmgGdG/www-embed-player.js:511
   K (http://www.amazon.in/Bedding-10-Off-or-more/s?ie=UTF8&page=2&rh=n%3A1953360031%2Cp_76%3A1318482031%2Cp_n_pct-off-with-tax%3A2665399031:18)
 
   phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-11T11:04:13.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:09:13.005Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:14:13.005Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-11T11:19:13.005Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
