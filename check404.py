@@ -20,11 +20,14 @@ print len(urls)
 for url in urls:
     driver.get(url)
     title = driver.title
-    title = str(title).lower()
-    if (title.find(error404) == -1):
-        print "Correct URL - " + url
-        continue
-    else:
-        print "Error at URL - " + url
+    try:
+        title = str(title).lower()
+        if (title.find(error404) == -1):
+            print "Correct URL - " + url
+            continue
+        else:
+            print "Error at URL - " + url
+    except UnicodeEncodeError:
+        pass
 
 driver.quit()
