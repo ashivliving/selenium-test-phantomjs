@@ -1,7 +1,8 @@
 import unittest
 from selenium import webdriver
 import time
-
+import sys
+sys.path.append('/usr/local/bin/phantomjs')
 
 class Selenium2OnLocal(unittest.TestCase):
 
