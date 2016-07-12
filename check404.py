@@ -10,7 +10,7 @@ class Error404Check(unittest.TestCase):
         self.driver.get('http://www.mytokri.com/')
         self.driver.maximize_window()
 
-    #==================> 404 Checking <====================
+    #===================> 404 Checking <====================
 
     def test_from_check404(self):
         error404 = "MyTokri - 404 Error Page"
