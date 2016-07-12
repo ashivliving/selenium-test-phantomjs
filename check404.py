@@ -15,7 +15,7 @@ class Error404Check(unittest.TestCase):
     def test_from_check404(self):
         error404 = "MyTokri - 404 Error Page"
         error404 = error404.lower()
-        links = self.driver.find_elements_by_xpath("//*[@href]")
+        links = self.driver.find_elements_by_xpath("//*[@href]") #links array with href
         urls = []
         for element in links:
             link = element.get_attribute("href")
@@ -31,7 +31,7 @@ class Error404Check(unittest.TestCase):
             try:
                 title = str(title).lower()
                 if (title.find(error404) == -1):
-                    #print "Correct URL - " + url
+                    print "Correct URL - " + url
                     continue
                 else:
                     error = error + 1
