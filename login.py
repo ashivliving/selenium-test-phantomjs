@@ -4,7 +4,7 @@ import time
 #import sys
 #sys.path.append('/usr/local/bin/phantomjs')
 
-class Selenium2OnLocal(unittest.TestCase):
+class LoginTitle(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.PhantomJS()

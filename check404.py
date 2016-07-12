@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 
 
-class Selenium2OnLocal(unittest.TestCase):
+class Error404Check(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.PhantomJS()
