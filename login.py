@@ -7,7 +7,7 @@ import time
 class LoginTitle(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.PhantomJS()
+        self.driver = webdriver.PhantomJS(executable_path=r'/usr/local/bin/phantomjs')
         self.driver.get('http://www.mytokri.com/')
         self.driver.maximize_window()
 

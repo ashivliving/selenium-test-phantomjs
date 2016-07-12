@@ -1,5 +1,15 @@
-[INFO  - 2016-07-12T05:59:39.886Z] GhostDriver - Main - running on port 50907
-[INFO  - 2016-07-12T05:59:40.684Z] Session [d2930970-47f5-11e6-8c8d-a704a2fe48b9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-07-12T05:59:40.684Z] Session [d2930970-47f5-11e6-8c8d-a704a2fe48b9] - page.customHeaders:  - {}
-[INFO  - 2016-07-12T05:59:40.684Z] Session [d2930970-47f5-11e6-8c8d-a704a2fe48b9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-07-12T05:59:40.684Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d2930970-47f5-11e6-8c8d-a704a2fe48b9
+[INFO  - 2016-07-12T07:49:02.191Z] GhostDriver - Main - running on port 60134
+[INFO  - 2016-07-12T07:49:03.061Z] Session [1a0dd7d0-4805-11e6-8ede-dd35cae37ad4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-12T07:49:03.061Z] Session [1a0dd7d0-4805-11e6-8ede-dd35cae37ad4] - page.customHeaders:  - {}
+[INFO  - 2016-07-12T07:49:03.061Z] Session [1a0dd7d0-4805-11e6-8ede-dd35cae37ad4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-12T07:49:03.062Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1a0dd7d0-4805-11e6-8ede-dd35cae37ad4
+[ERROR - 2016-07-12T07:49:08.801Z] Session [1a0dd7d0-4805-11e6-8ede-dd35cae37ad4] - page.onError - msg: ReferenceError: Can't find variable: ap
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-12T07:49:08.801Z] Session [1a0dd7d0-4805-11e6-8ede-dd35cae37ad4] - page.onError - stack:
+  sendBeacon (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  trigger (http://static.adpushup.com/js/adpushupadsv2.js:1)
+  triggerControl (http://static.adpushup.com/js/adpushupadsv2.js:4)
+  (anonymous function) (http://static.adpushup.com/js/adpushupadsv2.js:4)
+
+  phantomjs://platform/console++.js:263 in error
