@@ -9,7 +9,7 @@ class Error404Check(unittest.TestCase):
         self.driver = webdriver.PhantomJS()
         self.driver.get('http://www.mytokri.com/')
         self.driver.maximize_window()
-
+        #time.sleep(2)
     #===================> 404 Checking <====================
 
     def test_from_check404(self):
