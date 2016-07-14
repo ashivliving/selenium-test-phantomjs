@@ -15,6 +15,7 @@ class LoginTitle(unittest.TestCase):
     #=================> LOGIN CHECK <=======================
 
     def test_from_search(self):
+        fo = open("result.txt", 'a')
         start = int(time.time() * 1000)
         keyword = "book"
         self.driver.find_element_by_id("livesearch").clear()
@@ -24,9 +25,10 @@ class LoginTitle(unittest.TestCase):
         title = self.driver.title
         if title.find(keyword) == 0:
             end = int(time.time() * 1000)
-            print "Search Done! in " + str(end-start) + ' millisecond'
+            fo("\nSearch Done! in " + str(end-start) + ' millisecond\n')
         else:
-            print "Error in searching!"
+            fo.write("Error in searching!\n")
+        fo.close()
 
     def tearDown(self):
         self.driver.quit()

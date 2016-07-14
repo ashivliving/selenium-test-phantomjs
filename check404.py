@@ -13,6 +13,7 @@ class Error404Check(unittest.TestCase):
     #===================> 404 Checking <====================
 
     def test_from_check404(self):
+        fo = open("result.txt", 'a')
         error404 = "MyTokri - 404 Error Page"
         error404 = error404.lower()
         links = self.driver.find_elements_by_xpath("//*[@href]") #links array with href
@@ -35,10 +36,10 @@ class Error404Check(unittest.TestCase):
                     continue
                 else:
                     error = error + 1
-                    print "Error at URL - " + url
+                    fo.write("Error at URL - " + url)
             except UnicodeEncodeError:
                 pass
-        print "Total 404 Error in HomePage- " + str(error)
+        fo.write("\nTotal 404 Error in HomePage- " + str(error))
 
 
     def tearDown(self):
