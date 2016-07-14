@@ -25,7 +25,7 @@ class LoginTitle(unittest.TestCase):
         title = self.driver.title
         if title.find(keyword) == 0:
             end = int(time.time() * 1000)
-            fo("\nSearch Done! in " + str(end-start) + ' millisecond\n')
+            fo.write("\nSearch Done! in " + str(end-start) + ' millisecond\n')
         else:
             fo.write("Error in searching!\n")
         fo.close()
